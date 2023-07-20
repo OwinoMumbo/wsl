@@ -33,7 +33,7 @@
     asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git\
 Click here for [asdf Documentation](https://asdf-vm.com/guide/introduction.html)
     
-Dependencies and Plugins:
+### Dependencies and Plugins:
 
       sudo apt-get update<br>
       sudo apt-get install libssl-dev<br>
