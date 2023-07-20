@@ -34,6 +34,7 @@
 Click here for [asdf Documentation](https://asdf-vm.com/guide/introduction.html)
     
 Dependencies and Plugins:
+
       sudo apt-get update<br>
       sudo apt-get install libssl-dev<br>
       sudo apt-get install autoconf<br>
