@@ -34,7 +34,7 @@
 Click here for [asdf Documentation](https://asdf-vm.com/guide/introduction.html)
     
 Dependencies and Plugins:
-
+      sudo apt-get update
       sudo apt-get install libssl-dev
       sudo apt-get install autoconf
       sudo apt-get install libncurses5-dev 
