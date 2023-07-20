@@ -53,25 +53,27 @@ And search the specified command for explanation.
       
       
    Plugins:
-###We Install node Js to check if asdf is working as a package installer
+### We Install node Js to check if asdf is working as a package installer
     
         asdf install nodejs latest    
         asdf local nodejs latest    
         asdf global nodejs latest
 
         
-###We Install elixir and erlang plugins 
+### We Install elixir and erlang plugins 
 
         
         asdf plugin add erlang    
         asdf plugin add elixir
 
-        
+### We check for the latest version of erlang and elixir supported by ElixirLs plugin
+the update on support can be found in the link here [Elixir ls Documentation](https://github.com/elixir-lsp/elixir-ls)
+
         asdf list-all erlang
         KERL_BUILD_DOCS=yes asdf install erlang 25.3.2.3       
         asdf install elixir 1.15.0-otp-25    
 
-         
+###
         asdf local elixir 1.15.0-otp-25    
         asdf global elixir 1.15.0-otp-25
         asdf local erlang 25.3.2.3  
