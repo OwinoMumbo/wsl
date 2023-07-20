@@ -53,10 +53,14 @@ And search the specified command for explanation.
       
       
    Plugins:
-
+###We Install node Js to check if asdf is working as a package installer
+    
         asdf install nodejs latest    
         asdf local nodejs latest    
-        asdf global nodejs latest 
+        asdf global nodejs latest
+
+        
+###We Install elixir and erlang plugins 
 
         
         asdf plugin add erlang    
