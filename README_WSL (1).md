@@ -74,7 +74,7 @@ the update on support can be found in the link here [Elixir ls Documentation](ht
         KERL_BUILD_DOCS=yes asdf install erlang 25.3.2.3       
         asdf install elixir 1.15.0-otp-25    
 
-###
+### Set the envinment settings to enable the Elixir ls to work and other third party pluggins
         asdf local elixir 1.15.0-otp-25    
         asdf global elixir 1.15.0-otp-25
         asdf local erlang 25.3.2.3  
