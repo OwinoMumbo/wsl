@@ -11,8 +11,8 @@ Enable Secure Virtulization, if you are lost on how to there is documentation be
 
 ## Windows
 
-##On the windows search bar, Open windows features turn on and off, turn on Windows subsystem for linux and virtual machine options.
-##Open Powershell and run as admin
+### On the windows search bar, Open windows features turn on and off, turn on Windows subsystem for linux and virtual machine options.
+### Open Powershell and run as admin
 
     wsl --install
     wsl --status
