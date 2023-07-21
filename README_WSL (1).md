@@ -40,20 +40,31 @@ Click here for [asdf Documentation](https://asdf-vm.com/guide/introduction.html)
     
 ### Dependencies and Plugins:<br>
 
+To update the system
+
       sudo apt-get update<br>
+
+To Manage Documentatation and webview 
+
       sudo apt-get install libssl-dev<br>
       sudo apt-get install autoconf<br>
       sudo apt-get install libncurses5-dev<br>
       sudo apt-get install fop<br>
-      sudo apt install python3 g++ make python3-pip<br>
-      sudo apt-get install xsltproc<br>
-      sudo apt-get install unixodbc-dev<br>
-      sudo apt install libxml2-utils<br>
-      sudo apt install default-jdk<br>
-      sudo apt-get install erlang-jinterface<br>
-      sudo apt install inotify-tools libtool automake libgmp-dev make libwxgtk-webview3.0-gtk3-dev libssl-dev libncurses5-dev curl git<br> 
       sudo apt install libjpeg-dev libpng-dev libtiff-dev zlib1g-dev libncurses5-dev libssh-dev unixodbc-dev libgmp3-dev libwxbase3.0-dev libwxgtk3.0-gtk3-dev libwxgtk-webview3.0-gtk3-dev libsctp-dev lksctp-tools build-essential libgtk-3-dev libnotify-dev libsecret-1-dev catch<br>
       sudo apt install libwxgtk-webview3.0-gtk3-dev<br>
+      
+      sudo apt-get install xsltproc<br>
+      
+      sudo apt install libxml2-utils<br>
+
+To Manage Database, Java and Python installation and their dependancies that will be used on projects
+
+      sudo apt-get install unixodbc-dev<br>
+      sudo apt install default-jdk<br>
+      sudo apt-get install erlang-jinterface<br>
+      sudo apt install python3 g++ make python3-pip<br>
+      sudo apt install inotify-tools libtool automake libgmp-dev make libwxgtk-webview3.0-gtk3-dev libssl-dev libncurses5-dev curl git<br> 
+      
 Click here for [Linux Package Install Documentation](https://howtoinstall.co/en/)
 And search the specified command for explanation.
       
