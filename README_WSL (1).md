@@ -73,6 +73,7 @@ And search the specified command for explanation.
         asdf plugin add elixir
 
 ### We check for the latest version of erlang and elixir supported by ElixirLs plugin
+### For the steps below please use the correct and latest version updates available on support i.e (~>"25.3.2.3")
 the update on support can be found in the link here [Elixir ls Documentation](https://github.com/elixir-lsp/elixir-ls)
 
         asdf list-all erlang
