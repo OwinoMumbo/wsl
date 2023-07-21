@@ -44,7 +44,7 @@ To update the system
 
       sudo apt-get update<br>
 
-To Manage Documentatation and webview 
+To Manage Documentatation, Scripting and webview 
 
       sudo apt-get install libssl-dev <br>
       sudo apt-get install autoconf<br>
@@ -52,9 +52,7 @@ To Manage Documentatation and webview
       sudo apt-get install fop<br>
       sudo apt install libjpeg-dev libpng-dev libtiff-dev zlib1g-dev libncurses5-dev libssh-dev unixodbc-dev libgmp3-dev libwxbase3.0-dev libwxgtk3.0-gtk3-dev libwxgtk-webview3.0-gtk3-dev libsctp-dev lksctp-tools build-essential libgtk-3-dev libnotify-dev libsecret-1-dev catch<br>
       sudo apt install libwxgtk-webview3.0-gtk3-dev<br>
-      
       sudo apt-get install xsltproc<br>
-      
       sudo apt install libxml2-utils<br>
 
 To Manage Database, Java and Python installation and their dependancies that will be used on projects
