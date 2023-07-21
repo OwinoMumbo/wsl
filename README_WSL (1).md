@@ -1,4 +1,5 @@
 # Windows Subsystem Linux 
+  This project was started when the Padawans TAUSPACE team ran into a configuration problem with getting Elixir working on machines
     by Shawn Mumbo, Haseeenah Sami and Kevin Naidoo
 ## BIOS
 
