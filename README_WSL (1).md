@@ -2,7 +2,7 @@
     by Shawn Mumbo, Haseeenah Sami and Kevin Naidoo
 ## BIOS
 
-
+Before the start of this project there is a couple of settings needed to be checked on the BIOS to alloe WSL and virtulization in general.
 
 ## Windows
 
