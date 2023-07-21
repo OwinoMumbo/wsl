@@ -2,7 +2,10 @@
     by Shawn Mumbo, Haseeenah Sami and Kevin Naidoo
 ## BIOS
 
-Before the start of this project there is a couple of settings needed to be checked on the BIOS to alloe WSL and virtulization in general.
+Before the start of this project there is a couple of settings needed to be checked on the BIOS to allow WSL and virtulization in general.
+You can skip this step if you have done it before.
+Restart your Pc and click the hotkey (Usuallly F2 or F10).
+Enable Secure Virtulization, if you are lost on how to there is documentation below on various ways you can enable virtualization on your device.
 
 [BIOS Settings Documentation](https://www.minitool.com/news/enable-virtualization-windows-10.html)
 
