@@ -76,7 +76,8 @@ And search the specified command for explanation.
 the update on support can be found in the link here [Elixir ls Documentation](https://github.com/elixir-lsp/elixir-ls)
 
         asdf list-all erlang
-        KERL_BUILD_DOCS=yes asdf install erlang 25.3.2.3       
+        KERL_BUILD_DOCS=yes asdf install erlang 25.3.2.3
+        asdf list-all elixir
         asdf install elixir 1.15.0-otp-25    
 
 ### Set the envinment settings to enable the Elixir ls to work and other third party pluggins
