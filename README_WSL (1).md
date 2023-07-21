@@ -78,7 +78,9 @@ the update on support can be found in the link here [Elixir ls Documentation](ht
         asdf local elixir 1.15.0-otp-25    
         asdf global elixir 1.15.0-otp-25
         asdf local erlang 25.3.2.3  
-        asdf global erlang 25.3.2.3    
+        asdf global erlang 25.3.2.3
+
+### To check if the Elixir ls is installed properly it should return a version number.
         elixir -v
 
 
