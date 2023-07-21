@@ -4,6 +4,8 @@
 
 Before the start of this project there is a couple of settings needed to be checked on the BIOS to alloe WSL and virtulization in general.
 
+[BIOS Settings Documentation](https://www.minitool.com/news/enable-virtualization-windows-10.html)
+
 ## Windows
 
 ##On the windows search bar, Open windows features turn on and off, turn on Windows subsystem for linux and virtual machine options.
